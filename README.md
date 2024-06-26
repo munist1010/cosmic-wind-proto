@@ -15,5 +15,6 @@ I've included a screenshot of the progress so far below, which is by no means th
 - Abstract in-line tailwind into globals.css for repeated use-cases
 - Decide on highlight color accent for enhanced accessibilty
 - Refactor HTML to be more semantic
+- Perhaps most important - make it responsive!
 
 Thanks for taking a look!
