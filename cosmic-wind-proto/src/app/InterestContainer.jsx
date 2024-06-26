@@ -1,12 +1,12 @@
 
 function InterestContainer() {
     return (
-    <section className="flex w-[75%] mx-auto my-[200px]">
-        <div className="w-[65%] mx-10 my-20">
+    <section className="flex w-[75%] max-lg:w-[100%] mx-auto max-lg:mx-0 my-[200px] max-lg:my-0 max-lg:flex-col">
+        <div className="w-[65%] max-lg:w-[90%] mx-10 max-lg:mx-6 my-20">
             <h1 className="font-semibold tracking-wide font-[Poppins] mb-2">
             Hello edun.
             </h1>
-            <h1 className="w-[80%] text-4xl leading-10 tracking-normal font-[Poppins] font-semibold">
+            <h1 className="w-[80%] max-lg:w-[100%] text-4xl leading-10 tracking-normal font-[Poppins] font-semibold">
             The professional network in education.
             </h1>
             <p className="font-extralight leading-6 text-xs tracking-wide font-[Poppins] mt-2">
@@ -17,9 +17,9 @@ function InterestContainer() {
             </button>
         </div>
         <div>
-            <video className="rounded-3xl" autoPlay loop muted>
-            <source src="https://storage.googleapis.com/edun-static/videos/edun_crm_the_professional_network_in_education.mp4" type="video/mp4"></source>
-            <source src="https://storage.googleapis.com/edun-static/videos/edun_crm_the_professional_network_in_education.webm" type="video/webm"></source>
+            <video className="rounded-3xl max-lg:w-[90%] max-lg:mx-6" autoPlay loop muted>
+                <source src="https://storage.googleapis.com/edun-static/videos/edun_crm_the_professional_network_in_education.mp4" type="video/mp4"></source>
+                <source src="https://storage.googleapis.com/edun-static/videos/edun_crm_the_professional_network_in_education.webm" type="video/webm"></source>
             </video>
         </div>
     </section>
