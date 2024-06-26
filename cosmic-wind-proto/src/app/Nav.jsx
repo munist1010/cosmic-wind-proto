@@ -9,11 +9,11 @@ function Nav() {
                 </svg>
             </i>
             <ul className="flex flex-row max-md:flex-wrap max-md:mx-auto max-md:justify-center">
-                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">Request Demo</li></a>
-                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">Testimonials</li></a>
-                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">LinkedIn</li></a>
-                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">Contact Us</li></a>
-                <a href=""><li className="mt-8 mx-2 max-md:justify-self-centerer px-4 py-1 max-md:py-0 h-8 font-[Poppins] text-sm max-md:text-xs">Log In Here</li></a>
+                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm text-nowrap max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">Request Demo</li></a>
+                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm text-nowrap max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">Testimonials</li></a>
+                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm text-nowrap max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">LinkedIn</li></a>
+                <a href=""><li className="hover:shadow-[white] mt-8 mx-2 font-[Poppins] text-sm text-nowrap max-md:text-xs bg-midgroundGrey rounded-lg px-4 h-8 max-md:h-6 py-1 shadow-sm shadow-highlightGreen transition ease-in-out delay-100 hover:bg-[#39504b] max-md:w-[90%]">Contact Us</li></a>
+                <a href=""><li className="mt-8 mx-2 max-md:justify-self-centerer px-4 py-1 max-md:py-0 h-8 font-[Poppins] text-sm text-nowrap max-md:text-xs">Log In Here</li></a>
             </ul>
         </div>
     )

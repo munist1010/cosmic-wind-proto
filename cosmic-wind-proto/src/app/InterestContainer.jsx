@@ -16,7 +16,7 @@ function InterestContainer() {
             Register Interest
             </button>
         </div>
-        <div>
+        <div className="block m-auto">
             <video className="rounded-3xl max-lg:w-[90%] max-lg:mx-6" autoPlay loop muted>
                 <source src="https://storage.googleapis.com/edun-static/videos/edun_crm_the_professional_network_in_education.mp4" type="video/mp4"></source>
                 <source src="https://storage.googleapis.com/edun-static/videos/edun_crm_the_professional_network_in_education.webm" type="video/webm"></source>
