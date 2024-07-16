@@ -7,8 +7,6 @@ npm install to download the required dependencies
 npm run dev to start the development server
 
 # Layout
-I've included a screenshot of the progress so far below, which is by no means the finished product!
-
 ![alt text](image-1.png)
 
 # TODO for this project:
